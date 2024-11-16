@@ -13,8 +13,8 @@ sexo VARCHAR(2) NOT NULL,
 nombre_del_cliente VARCHAR(20) NOT NULL,
 fecha_de_nacimiento DATE(30) NOT NULL
 );
-INSERT INTO mascotas (id_mascota, nombre de la mascota, tipo de mascota, raza, sexo,
-nombre del cliente, fecha de nacimiento)
+INSERT INTO mascotas (id_mascota, nombre_de_la_mascota, tipo_de_mascota, raza, sexo,
+nombre_del_cliente, fecha_de_nacimiento)
 VALUES
 (1, 'Laika', 'dog', 'Cocker spaniel',
 'Male', 'Jose Rivero', '1998-06-02'),
