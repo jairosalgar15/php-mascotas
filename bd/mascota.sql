@@ -15,27 +15,22 @@ INSERT INTO usuarios (id_mascota, nombre de la mascota, tipo de mascota, raza, s
 nombre del cliente, fecha de nacimiento)
 VALUES
 (001, 'Laika', 'dog', 'Cocker spaniel',
-'Male', 'Jose Rivero', 'F', 'United
-States', 'Milwaukee'),
+'Male', 'Jose Rivero', '1998-06-02'),
 (002, 'Ruby', 'cat', 'Siberian Cat', 'Female',
-'Pedro Rodriguez', 'F', 'United States', 'Winston Salem'),
+'Pedro Rodriguez', '2002-08-28'),
 (003, 'Blanca', 'parakeet', 'Pyrrhura Hoematotis', 'Male',
-'Raul Castro', 'M', 'China', 'Rongdoi'),
+'2004-01-12'),
 (004, 'Bobby', 'dog', 'Beagle', 'Female',
-'Paris Rodriguez', 'M', 'Japan', 'Maki'),
+'Paris Rodriguez', '2008-11-10'),
 (005, 'Nino', 'cat', 'Persian Cat', 'Female',
-'Diego Rojas', 'M', 'Tanzania', 'Katumba'),
+'Diego Rojas', '2012-12-24'),
 (006, 'Chango', 'eagle', 'Female',
-'Mardco Herber', '+7-684-501-4662', 'M', 'Russia',
-'Belgorod'),
+'Mardco Herber', '2015-10-12'),
 (007, 'Catire', 'owl', 'Male',
-'Pablo Escobar', '+86-238-786-5244', 'M', 'China',
-'Yangxipu'),
+'Pablo Escobar', '2020-02-20'),
 (008, 'Zeus', 'dog', 'Bulldog',
-'Male', 'Albany Mendoza', 'M', 'United
-States', 'Shawnee Mission'),
+'Male', 'Albany Mendoza', '2022-08-28'),
 (009, 'Kira', 'cat', 'Bombay Cat', 'Female',
-'Jairo Salgar', 'M', 'China', 'Wanshan'),
+'Jairo Salgar', '2024-02-06'),
 (010, 'Karla', 'dog', 'Yorkshire Terrier',
-'Female', 'Juan Rivas', 'F', 'Russia',
-'Siverskiy');
+'Female', 'Juan Rivas', '2018-06-02');
